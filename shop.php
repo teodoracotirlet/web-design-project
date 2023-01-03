@@ -28,54 +28,55 @@
 
     </div>
 
-    </div><br><br><br><br>
+    </div><br><br><br><br><br><br>
 
-    
-    <div class="card">
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
-  <h1>Tailored Jeans</h1>
-  <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
-  <p><button>Add to Cart</button></p>
-  
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
-  <h1>Tailored Jeans</h1>
-  <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
-  <p><button>Add to Cart</button></p>
-  
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
-  <h1>Tailored Jeans</h1>
-  <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
-  <p><button>Add to Cart</button></p>
-  
-  
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
-  <h1>Tailored Jeans</h1>
-  <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
-  <p><button>Add to Cart</button></p>
-  
-  
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
-  <h1>Tailored Jeans</h1>
-  <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
-  <p><button>Add to Cart</button></p>
-  
-  
-  
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
-  <h1>Tailored Jeans</h1>
-  <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
-  <p><button>Add to Cart</button></p>
+    <div class ="textshop">
+    <div style="text-align:center">
+    <h1>Our products</h1>
+    </div>
+    <div class="row">
+  <div class="column">
+    <img src="imggallery/img1.jpeg" alt="Snow" style="width:100%">
+    <p>Photo shoot 1 hour</p>
+    <p>50 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
+
+  <div class="column">
+    <img src="imggallery/img2.jpeg" alt="Snow" style="width:100%">
+    <p>Photo shoot 2 hours</p>
+    <p>100 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
+
+  <div class="column">
+    <img src="imggallery/img3.jpeg" alt="Snow" style="width:100%">
+    <p>Photo shoot 3 hours</p>
+    <p>150 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
 </div>
+<div class="row">
+  <div class="column">
+    <img src="imggallery/img1.jpeg" alt="Snow" style="width:100%">
+    <p>Photo shoot 1 hour</p>
+    <p>50 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
 
+  <div class="column">
+    <img src="imggallery/img2.jpeg" alt="Snow" style="width:100%">
+    <p>Photo shoot 2 hours</p>
+    <p>100 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
 
-
-
+  <div class="column">
+    <img src="imggallery/img3.jpeg" alt="Snow" style="width:100%">
+    <p>Photo shoot 3 hours</p>
+    <p>150 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
 
     </body>
 </html>
