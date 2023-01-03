@@ -33,14 +33,14 @@
     
     <h1>Order here:</h1>
 <form action="shoporder.php" method="POST">
-   Full Name: <input type="text" name="fullnameclient" required><br> 
-   Product: <input type="text" name="product" required><br>
-   Quantity: <input type="text" name="quantity" required><br>
-   Price: <input type="text" name="price" required><br>
-   Photographer: <input type="text" name="photographer" required><br>
+   Full Name: <input type="text1" name="fullnameclient" required><br> 
+   Product: <input type="text1" name="product" required><br>
+   Quantity: <input type="text1" name="quantity" required><br>
+   Price: <input type="text1" name="price" required><br>
+   Photographer: <input type="text1" name="photographer" required><br>
    
    <input type="reset" value="Reset">
-   <input type="submit" value="Order">
+   <input type="submit1" value="Order">
 </form>
 
 
