@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-
+    
    
 
 
@@ -92,13 +93,37 @@ function showSlides() {
 </script>
 
 
+</div> <br><br><br><br><br><br><br>
+
+
+<div class="container1">
+  <div style="text-align:center">
+    <h2>Contact Us</h2>
+    
+  </div>
+  <div class="row1">
+    <div class="column2">
+      <img src="imaginihomepage/map1.jpeg" style="width:70%">
+    </div>
+    <div class="column1">
+      <form action="/action_page.php">
+        <label for="fname">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name..">
+        <label for="lname">Email</label>
+        <input type="text" id="email" name="email" placeholder="Your email..">
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Romania</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:100px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
 </div>
-
-
-
-
-
-
 
 </body>
 </html>
