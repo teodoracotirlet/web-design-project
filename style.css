@@ -109,35 +109,6 @@
 
 
 
-  .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 300px;
-    margin: auto;
-    text-align: center;
-    font-family: arial;
-  }
-  
-  .price {
-    color: grey;
-    font-size: 22px;
-  }
-  
-  .card button {
-    border: none;
-    outline: 0;
-    padding: 12px;
-    color: white;
-    background-color: #000;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
-    font-size: 18px;
-  }
-  
-  .card button:hover {
-    opacity: 0.7;
-  }
-
 
 
 
@@ -174,7 +145,7 @@
 
 .textcentru{
   display: center;
-  max-width: 50%;
+  max-width: 80%;
   margin: auto;
   height: 80%;
 }
@@ -190,7 +161,7 @@
   text-align: center;
   color: #8e8863;
   font-family: 'Sansita Swashed', cursive;
-  font-size: 12px;
+  font-size: 25px;
 }
 
 * {
@@ -331,4 +302,88 @@ span.psw {
   .cancelbtn {
      width: 100%;
   }
+}
+
+
+/* contact section home page */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text1], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(230, 230, 230);
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit1] {
+  background-color: #d6da77;
+  color: rgb(233, 232, 232);
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+
+input[type=submit1]:hover {
+  background-color: #cebe52;
+}
+
+
+
+
+
+/* Style the container/contact section */
+.container1 {
+  border-radius: 5px;
+  background-color: #efefef;
+  padding: 10px;
+  color: #D5CEA3;
+}
+
+/* Create two columns that float next to eachother */
+.column1 {
+  float: center;
+  width: 20%;
+  margin-top: 6px;
+  padding: 20px;
+  color: #D5CEA3;
+}
+.column2 {
+  float: center;
+  width: 20%;
+  margin-top: 6px;
+  padding: 20px;
+  color: #D5CEA3;
+}
+
+/* Clear floats after the columns */
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+  color: #D5CEA3;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column1, input[type=submit] {
+    width: 100%;
+    margin-top: 1;
+  }
+}
+
+
+.myphotos{
+  color: #D5CEA3;
+
+}
+
+.textshop{
+  color: #D5CEA3;
 }
