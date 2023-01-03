@@ -31,23 +31,30 @@
     </div><br><br><br><br><br><br><br>
 
 
+<div class = "textgallery">
+    <div class="myphotos">
+<div style="text-align:center">    
+<h1>My photos</h1>
+</div></div><br>
 
 <div id="gallery">
   
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
-   <img src="imgcarusel/brasovcraciun.jpeg">
+   <img src="imggallery/img1.jpeg">
+   <img src="imggallery/img2.jpeg">
+   <img src="imggallery/img3.jpeg">
+   <img src="imggallery/img4.jpeg">
+   <img src="imggallery/img5.jpeg">
+   <img src="imggallery/img6.jpeg">
+   <img src="imggallery/img7.jpeg">
+   <img src="imggallery/img8.jpeg">
+   <img src="imggallery/img9.jpeg">
+   <img src="imggallery/img10.jpeg">
    
   
   </div>
 
 </head>
 </html>
+
+
 
