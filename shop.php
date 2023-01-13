@@ -36,47 +36,55 @@
     </div>
     <div class="row">
   <div class="column">
-    <img src="imggallery/img1.jpeg" alt="Snow" style="width:100%">
+    <img src="imgproduse/sedintafoto1.jpeg" alt="Snow" style="width:100%">
     <p>Photo shoot 1 hour</p>
     <p>50 RON</p>
     <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
   </div>
 
   <div class="column">
-    <img src="imggallery/img2.jpeg" alt="Snow" style="width:100%">
+    <img src="imgproduse/sedintafoto2.jpg" alt="Snow" style="width:60%">
     <p>Photo shoot 2 hours</p>
     <p>100 RON</p>
     <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
   </div>
 
   <div class="column">
-    <img src="imggallery/img3.jpeg" alt="Snow" style="width:100%">
+    <img src="imgproduse/sedintafoto3.jpg" alt="Snow" style="width:60%">
     <p>Photo shoot 3 hours</p>
+    <p>150 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
+</div><br><br>
+<div class="row">
+  <div class="column">
+    <img src="imgproduse/zinasterepoza.jpg" alt="Snow" style="width:60%">
+    <p>Pachet zi nastere photoshoot</p>
+    <p>50 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
+
+  <div class="column">
+    <img src="imgproduse/zinasterevideo.jpg" alt="Snow" style="width:60%">
+    <p>Pachet zi nastere + video</p>
+    <p>100 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
+</div><br><br>
+<div class="row">
+  <div class="column">
+    <img src="imgproduse/nuntapoza.jpg" alt="Snow" style="width:50%">
+    <p>Photo shoot wedding</p>
+    <p>150 RON</p>
+    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
+  </div>
+
+  <div class="column">
+    <img src="imgproduse/nuntavideo.jpg" alt="Snow" style="width:60%">
+    <p>Photo shoot wedding + video</p>
     <p>150 RON</p>
     <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
   </div>
 </div>
-<div class="row">
-  <div class="column">
-    <img src="imggallery/img1.jpeg" alt="Snow" style="width:100%">
-    <p>Photo shoot 1 hour</p>
-    <p>50 RON</p>
-    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
-  </div>
-
-  <div class="column">
-    <img src="imggallery/img2.jpeg" alt="Snow" style="width:100%">
-    <p>Photo shoot 2 hours</p>
-    <p>100 RON</p>
-    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
-  </div>
-
-  <div class="column">
-    <img src="imggallery/img3.jpeg" alt="Snow" style="width:100%">
-    <p>Photo shoot 3 hours</p>
-    <p>150 RON</p>
-    <p><a href = "orderpage.php" class = "homebutton">Add to cart</a></p>
-  </div>
-
     </body>
 </html>
