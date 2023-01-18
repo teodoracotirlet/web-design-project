@@ -29,20 +29,18 @@
     </div><br><br><br><br><br>
 
   
-  
+ 
 <h1>Create your account</h1>
 
 <form action="accountselection.php" method="POST">
-   First Name: <input type="text1" name="firstname" required><br> 
-   Last Name: <input type="text1" name="lastname" required><br>
-   Email: <input type="text1" name="email" required><br>
-   Age: <input type="text1" name="age" required><br>
+   First Name: <input type="text" name="firstname" required><br> 
+   Last Name: <input type="text" name="lastname" required><br>
+   Email: <input type="text" name="email" required><br>
+   Age: <input type="text" name="age" required><br>
    
    <input type="reset" value="Reset">
-   <input type="submit1" value="Send">
+   <input type="submit" value="Send">
 </form>
-
-
 
 
 </head>
